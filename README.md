@@ -22,5 +22,3 @@ Un CRUD est un système de manipulation des données de la base : ça signifie C
 En effet , tous ces fichiers crées reprennent toutes les propriétés de votre entités (ainsi que de la table associée dans la base de données) et vous crée les formulaires avec toutes les fonctionnalités qui vont bien (edit , show,delete , create).
 
 Voilà maintenant que vous connaissez un des énièmes prodiges de Symfony , vous pourrez aisément faire vos formulaires en 4s chrono (5s pour ceux qui ,comme moi ,ont un terminal mou du genou).
-
-
